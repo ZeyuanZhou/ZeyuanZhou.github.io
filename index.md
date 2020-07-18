@@ -3,10 +3,10 @@
     <td width="75%">
       <h1>Zeyuan Zhou</h1>
       <p><b>undergraduate 2017.7~2021.7</b></p>
-      <p><b>Northwestern Polytechnical University (NWPU),
+      <p><b>Northwestern Polytechnical University (NWPU),</b></p>
       <p><b>Mechanical engineering school</b></p>
       <p><b>email：zeyuanzhou117@gmail.com</b></p>
-      <p><b>No.127,Youyi Road, Beilin District,
+      <p><b>No.127,Youyi Road, Beilin District,</b></p>
       <p><b>Xi'an, China</b></p>
     </td>
     <td width="25%">
