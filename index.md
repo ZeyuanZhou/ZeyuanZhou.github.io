@@ -15,6 +15,7 @@
   </tr>
 </table>
 ------------------------------------------------
+
 ## Education Background:
 
 ### Northwestern Polytechnical University ( Xi’an, China ):     2017.7~2021.7
