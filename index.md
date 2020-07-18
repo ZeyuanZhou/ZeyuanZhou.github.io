@@ -42,22 +42,25 @@ Finite Element Method in Engineering Analysis: A+ (learned at Berkeley) <br>
 
 
 
+
 ## Academic Background:
 
 ### 2020.1~ now:
 
-**The Major Research Plan of National Natural Science Foundation of China (NSFC) 2020** <br>
-High Order Difference Method on Unstructured Grid and Turbulence Simulation.
+**The Major Research Plan of National Natural Science Foundation of China (NSFC) 2020**<br>
+High Order Difference Method on Unstructured Grid and Turbulence Simulation.<br>
+(in charge of the paralle computing program, mainly in information exchange between multi blocks, and high order algorithm concerning the boundaries of block)
 
-**Student Research Training Plan (SRTP) 2020** <br>
-The Design and Simulation of Heavy Oil Sprayer
+**Student Research Training Plan (SRTP) 2020**<br>
+The Design and Simulation of Heavy Oil Sprayer<br>
+(In charge of the simulation process and program coding.)
 
 ### 2018.07 ~ 2020.3:
 
-**Intership at Shaanxi Key labtorary of CAGD** <br>
+**Intership at Shaanxi Key labtorary of CAGD**<br>
 majoring in programing to modelize the out shape of blade based on computer graphics theory.
 
-** Student Research Training Plan (SRTP) 2019** <br>
-
-
+**Student Research Training Plan (SRTP) 2019**<br>
+A Design of Robot Chassis With Omnidirectional Wheel<br>
+(In charge of the design control algorithm and coding.) 
 
