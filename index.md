@@ -57,7 +57,7 @@ The Design and Simulation of Heavy Oil Sprayer<br>
 
 ### 2018.07 ~ 2020.3:
 
-**Intership at Shaanxi Key labtorary of CAGD**<br>
+**Internship at Shaanxi Key labtorary of CAGD**<br>
 majoring in programing to modelize the out shape of blade based on computer graphics theory.
 
 **Student Research Training Plan (SRTP) 2019**<br>
