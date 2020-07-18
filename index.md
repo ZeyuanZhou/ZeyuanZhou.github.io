@@ -1,20 +1,3 @@
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Zeyuan Zhou</h1>
-      <p><b>undergraduate 2017.7~2021.7</b></p>
-      <p><b>Northwestern Polytechnical University (NWPU),</b></p>
-      <p><b>Mechanical engineering school</b></p>
-      <p><b>email：zeyuanzhou117@gmail.com</b></p>
-      <p><b>No.127,Youyi Road, Beilin District,</b></p>
-      <p><b>Xi'an, China</b></p>
-    </td>
-    <td width="25%">
-      <img src="/image.jpg" width="100%">   
-    </td>
-  </tr>
-</table>
- 
 
 ## Education Background:
 
@@ -59,3 +42,20 @@ majoring in programing to modelize the out shape of blade based on computer grap
 
 ### Student Research Training Plan (SRTP) 2019
 
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Zeyuan Zhou</h1>
+      <p><b>undergraduate 2017.7~2021.7</b></p>
+      <p><b>Northwestern Polytechnical University (NWPU),</b></p>
+      <p><b>Mechanical engineering school</b></p>
+      <p><b>email：zeyuanzhou117@gmail.com</b></p>
+      <p><b>No.127,Youyi Road, Beilin District,</b></p>
+      <p><b>Xi'an, China</b></p>
+    </td>
+    <td width="25%">
+      <img src="/image.jpg" width="100%">   
+    </td>
+  </tr>
+</table>
