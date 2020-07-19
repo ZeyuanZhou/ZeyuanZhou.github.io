@@ -16,7 +16,7 @@
 </table>
 
 ## Recent Research Work Update (2020.7.19):
-Implementing  the calculation of non-viscos flux in structured block with **WCNS** and cell-centered difference value with 6th-order scheme concerning the physics boundary condition and surface between blocks. 
+Implementing  the calculation of non-viscos flux in structured block with **WCNS(Weighted Compact High-order Nonlinear Scheme)** and cell-centered difference value with 6th-order scheme concerning the physics boundary condition and surface between blocks. 
 
 ## Brief Introduction
 
