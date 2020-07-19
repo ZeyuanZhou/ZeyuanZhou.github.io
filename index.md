@@ -66,12 +66,12 @@ The Design and Simulation of Heavy Oil Sprayer (ongoing)<br>
 majoring in programing to modelize the out shape of blade based on computer graphics theory.<br>
 
 **Student Research Training Plan (SRTP) 2019**<br>
-A Design of Robot Chassis With Omnidirectional Wheel ( Excellent Project)<br>
+A Design of Robot Chassis With Omnidirectional Wheel (Completed as Excellent Project)<br>
 (In charge of the design control algorithm and coding.) 
 
 **College Students' Entrepreneurship and Innovation Competition 2019**<br>
-Hand-held Pore Measuring Equipment Based On Machine Vision (Outstanding Project)
-
+Hand-held Pore Measuring Equipment Based On Machine Vision (Completed as Outstanding Project)<br>
+(In charge of the algorithm of modeling the detected object with image taken by the industrial camera)
 
 ## Awards & Honors 
 
