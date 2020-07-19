@@ -15,6 +15,11 @@
   </tr>
 </table>
 
+## Recent Research Work Update (2020.7.19):
+Implementing  the calculation of non-viscos flux in structured block with **WCNS** and cell-centered difference value with 6th-order scheme concerning the physics boundary condition and surface between blocks. 
+
+## Brief Introduction
+
 ## Education Background:
 
 ### Northwestern Polytechnical University ( Xi’an, China ):     2017.7~2021.7
@@ -48,19 +53,39 @@ Finite Element Method in Engineering Analysis: A+ (learned at Berkeley) <br>
 ### 2020.1~ now:
 
 **The Major Research Plan of National Natural Science Foundation of China (NSFC) 2020**<br>
-High Order Difference Method on Unstructured Grid and Turbulence Simulation.<br>
+High Order Difference Method on Unstructured Grid and Turbulence Simulation. (ongoing)<br>
 (in charge of the paralle computing program, mainly in information exchange between multi blocks, and high order algorithm concerning the boundaries of block)
 
 **Student Research Training Plan (SRTP) 2020**<br>
-The Design and Simulation of Heavy Oil Sprayer<br>
+The Design and Simulation of Heavy Oil Sprayer (ongoing)<br>
 (In charge of the simulation process and program coding.)
 
 ### 2018.07 ~ 2020.3:
 
-**Internship at Shaanxi Key labtorary of CAGD**<br>
-majoring in programing to modelize the out shape of blade based on computer graphics theory.
+**Intership at Shaanxi Key labtorary of CAGD**<br>
+majoring in programing to modelize the out shape of blade based on computer graphics theory.<br>
 
 **Student Research Training Plan (SRTP) 2019**<br>
-A Design of Robot Chassis With Omnidirectional Wheel<br>
+A Design of Robot Chassis With Omnidirectional Wheel ( Excellent Project)<br>
 (In charge of the design control algorithm and coding.) 
 
+**College Students' Entrepreneurship and Innovation Competition 2019**<br>
+Hand-held Pore Measuring Equipment Based On Machine Vision (Outstanding Project)
+
+
+## Awards & Honors 
+
+University Outstanding Student 2019<br>
+
+Second Prize in BOE Bussiness & Industry Innovation Challenge 2019<br>
+
+China National Scholarship 2018<br>
+
+First Prize in Ship Model Design and Speeding Competition 2018<br>
+
+Second Prize in Chinese Physics Olympiad 2016 <br>
+
+## Publication
+
+**Patent:** <br>
+Zhengqi H, Tianyang Z, **Zeyuan Z**, Jiadong Z, Qixing S. A small hand-held intelligent detection equipment and method for aircraft mechanical connection hole. (submitted)
