@@ -26,7 +26,7 @@ I never thought to major in fluid dynamics until the summer vacation 2019, befor
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Education Background
 ### Northwestern Polytechnical University ( Xi’an, China ):     2017.7~2021.7
-Majoring in Mechanical Engineering. current GPA: 91.9/100,  Rank: 1/78
+Mechanical Engineering. current GPA: 91.9/100,  Rank: 1/78
 ### University Of California, Berkeley:     2019.7~2020.1 (as exchange student)
 GPA: 4.0/4.0 
 
