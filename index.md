@@ -17,7 +17,7 @@
 
 
 ## Recent Research Work Update (2020.8.1):
-Finished the calculation program of non-viscos flux in structured block with **WCNS** and cell-centered difference value with 6th-order scheme concerning the physics boundary condition and surface between blocks. Now implementing the information transmit between blocks in high-order implicit time iteration.
+Finished the calculation program of non-viscos flux in structured block with **WCNS**(weighted compact nonlinear scheme) and cell-centered difference value with 6th-order scheme concerning the physics boundary condition and surface between blocks. Now implementing the information transmit between blocks in high-order implicit time iteration.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Self Introduction
