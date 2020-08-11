@@ -4,7 +4,6 @@
       <h1>Zeyuan Zhou</h1>
       <p><b>undergraduate 2017.7~2021.7</b></p>
       <p><b>Northwestern Polytechnical University (NWPU),</b></p>
-      <p><b>Mechanical engineering school</b></p>
       <p><b>email：zeyuanzhou117@gmail.com</b></p>
       <p><b>No.127,Youyi Road, Beilin District,</b></p>
       <p><b>Xi'an, China</b></p>
@@ -70,6 +69,13 @@ A Design of Robot Chassis With Omnidirectional Wheel (Completed as Excellent Pro
 **College Students' Entrepreneurship and Innovation Competition 2019**<br>
 Hand-held Pore Measuring Equipment Based On Machine Vision (Completed as Outstanding Project)<br>
 (In charge of the algorithm of modeling the detected object with image taken by the industrial camera)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## skills
+Experienced in coding in c++\matlab\python
+Experienced in projects involving OpenGL and OpenCV
+Experienced in parallel computation programing based on OpenMpi and OpenAcc
+CFD or coding related software: pointwise, tecplot,  typora, doxygen.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Awards & Honors 
