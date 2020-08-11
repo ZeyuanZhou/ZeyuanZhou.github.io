@@ -72,9 +72,9 @@ Hand-held Pore Measuring Equipment Based On Machine Vision (Completed as Outstan
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## skills
-Experienced in coding in c++\matlab\python
-Experienced in projects involving OpenGL and OpenCV
-Experienced in parallel computation programing based on OpenMpi and OpenAcc
+Experienced in coding in c++\matlab\python<br>
+Experienced in projects involving OpenGL and OpenCV<br>
+Experienced in parallel computation programing based on OpenMpi and OpenAcc<br>
 CFD or coding related software: pointwise, tecplot,  typora, doxygen.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
