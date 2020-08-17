@@ -47,7 +47,7 @@ Finite Element Method in Engineering Analysis: A+ (learned at Berkeley) <br>
 ### 2020.1~ now:
 **The Major Research Plan of National Natural Science Foundation of China (NSFC) 2020**<br>
 High Order Difference Method on Unstructured Grid and Turbulence Simulation. (ongoing)<br>
-(in charge of the paralle computing program, mainly in information exchange between multi blocks, and high order algorithm concerning the boundaries of block)
+(in charge of the paralle computing program, mainly in information exchange between multi blocks, and high order algorithm concerning the boundaries of block to ensure the conservation of convection term)
 
 **Student Research Training Plan (SRTP) 2020**<br>
 The Design and Simulation of Heavy Oil Sprayer (ongoing)<br>
