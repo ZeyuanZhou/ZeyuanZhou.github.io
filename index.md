@@ -15,8 +15,9 @@
 </table>
 
 
-## Recent Research Work Update (2020.8.1):
-Finished the calculation program of non-viscos flux in structured block with **DWCNS**(dissipative weighted compact nonlinear scheme) and cell-centered difference value with 6th-order scheme concerning the physics boundary condition and surface between blocks. Now implementing the information transmit between blocks in high-order implicit time iteration.
+## Recent Research Work Update (2020.9.3):
+Finished the parallel computing programe for both non-viscous(WCNS) and viscous flux(linear scheme yet) and related geometric jocobian difference for structured method.
+Next step: implementing WCNS in unstructured grid.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Education Background
