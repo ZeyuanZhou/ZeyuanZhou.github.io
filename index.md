@@ -95,6 +95,7 @@ Second Prize in Chinese Physics Olympiad 2016 <br>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Publication
-
+**Conference Paper:** <br>
+M Zeng, X Ding, **Z Zhou**, K Qu, J Cai. Overlapping adaptive grids to simulate unsteady separated flows. (Submitted to the 11th China National Conference of fluid mechanics 2020) <br>
 **Patent:** <br>
 Z Huang, T Zhang, **Z Zhou**, J Zhao, Q Sun. A small hand-held intelligent detection equipment and method for mechanical connection hole. (submitted)
