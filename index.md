@@ -22,7 +22,7 @@ Next step: implementing WCNS in unstructured grid.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Self Introduction
-I never thought to major in fluid dynamics until the summer vacation 2019, before which I just learnt applied math and physics courses like most undergraduates in mechanical engineering, imagining to be a robot designer or something fashionable on news. 2019 April,as an intern in CAGD lab, I took a task to model a blade and analyze its smoothness, which required an application of CFD software, impelling me to read papers of both computer graphics and CFD, and that was the first time when I got acquainted that a group of academician are active and focused  in developing the algorithm to compute physics phenomena, and when I totally realized the meanning of the math and physics knowledge learnt in the first 2 years as undergruate. Then in the 2019 Fall, I got an exchange chance to UC,Berkeley, and contacted Prof.**Philip Marcus** for an internship in CFD lab. Unfortunately, since I hadn't taken any specialized course in fluid dynamics, Mr.Marcus rejected my application but kindly invited me to weekly seminars and handed me a paper collection to find the question I am interested in and discuss with him. The next four months I spent at Berkeley was bizarre, listening to the cutting-edge reports, at the same time, learning the most basic theory. It was this semester when I got an overview of CFD, and prepared the fundamental knowledge. After returned my home university, I started my research at aerodynamics lab, following Prof.**Jinsheng Cai** and Ap.**Kun Qu**. In the past half year, the most work I did is focusing on high order difference method and high order time iterate in multi-block grid, providing me a chance to study the detailed mathematical technics in CFD. Besides the research in lab, as an amateur in vedio games and film effects, I am learning to develop a physical engine in spare time which acquaint me a basic knowledge and wide interests in topics like fluid-structure coupling, particle method which are out of the recent research plan in lab.   
+I never thought to major in fluid dynamics until the summer vacation 2019, before which I just learnt applied math and physics courses like most undergraduates in mechanical engineering, imagining to be a robot designer or something fashionable on news. 2019 April,as an intern in CAGD lab, I took a task to model a blade and analyze its smoothness, which required an application of CFD software, impelling me to read papers of both computer graphics and CFD, and that was the first time when I got acquainted that a group of academician are active and focused  in developing the algorithm to compute physics phenomena, and when I totally realized the meanning of the math and physics knowledge learnt in the first 2 years as undergruate. Then in the 2019 Fall, I got an exchange chance to UC,Berkeley, and contacted Prof.**Philip Marcus** for an internship in CFD lab. Unfortunately, since I hadn't taken any specialized course in fluid dynamics, Mr.Marcus rejected my application but kindly invited me to weekly seminars and handed me a paper collection to find the question I am interested in and discuss with him. The next four months I spent at Berkeley was bizarre, listening to the cutting-edge reports, at the same time, learning the most basic theory. It was this semester when I got an overview of CFD, and prepared the fundamental knowledge. After returned my home university, I started my research at aerodynamics lab, following Prof.**Jinsheng Cai** and Ap.**Kun Qu**. In the past half year, the most work I did is focusing on high order difference method and high order time iterate in multi-block grid, providing me a chance to study the detailed mathematical technics in CFD. Besides the research in lab, as an amateur in video games and film effects, I am learning to develop a physical engine in spare time which acquaint me a basic knowledge and wide interests in topics like fluid-structure coupling, particle method which are out of the recent research plan in lab.   
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Education Background
@@ -61,7 +61,7 @@ The Design and Simulation of Heavy Oil Sprayer (ongoing)<br>
 
 ### 2018.07 ~ 2020.3:
 
-**Intership at Shaanxi Key labtorary of CAGD(Computer Aided Geometric Design)**<br>
+**Internship at Shaanxi Key laboratory of CAGD(Computer Aided Geometric Design)**<br>
 majoring in programing to modelize the out shape of blade based on computer graphics theory.<br>
 
 **Student Research Training Plan (SRTP) 2019**<br>
@@ -84,7 +84,7 @@ CFD or coding related software: pointwise, tecplot,  typora, doxygen.
 
 University Outstanding Student 2019<br>
 
-Second Prize in BOE Bussiness & Industry Innovation Challenge 2019<br>
+Second Prize in BOE Business & Industry Innovation Challenge 2019<br>
 
 China National Scholarship 2018<br>
 
